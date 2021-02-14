@@ -18,7 +18,12 @@ header {
 }
 a {
   display: block;
+  text-decoration: none;
   color: inherit;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+}
+li {
   margin-block-start: 1em;
   margin-block-end: 1em;
 }
